@@ -29,7 +29,7 @@ Some javascript  tool functions for project using
 
 
 
-#####2. trim
+##### 2. trim
 
 ##### *use way* 
 
